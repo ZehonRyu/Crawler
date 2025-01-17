@@ -1,0 +1,17 @@
+# 忽略虚拟环境目录
+venv/
+env/
+.venv/
+
+# 忽略 Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略其他不必要的文件
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.sqlite3
